@@ -1,13 +1,8 @@
-### Hello, world, I'm Christian.
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/christian-the-brewer/count.svg" />
 </p>
-
-<a href="https://natemoo-nul3zg4de-christian-the-brewer.vercel.app/now-playing?open">
-    <img src="https://natemoo-nul3zg4de-christian-the-brewer.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
+### Hello, world, I'm Christian.
 
 <!--
 **christian-the-brewer/christian-the-brewer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
