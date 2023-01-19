@@ -17,6 +17,9 @@ I am a Boston-based developer working primarily in the MERN stack, Python, C++, 
 - 📫 How to reach me: the_code_brewer@proton.me 
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/christianbrewer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/the_code_brewer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](discordapp.com/users/Lieutenant_Turnips#6580)   -->
+<!-- <a href="https://www.linkedin.com/in/christianbrewer/" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/linkedin/connect/christianbrewer?logo=linkedin&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a> -->
 <a href="https://www.twitter.com/the_code_brewer" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/the_code_brewer?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><span>  </span><a href="https://www.github.com/christian-the-brewer" target="_blank" rel="noreferrer"><img
