@@ -1,8 +1,9 @@
+### Hello, world, I'm Christian.
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/christian-the-brewer/count.svg" />
 </p>
-### Hello, world, I'm Christian.
+
 
 <!--
 **christian-the-brewer/christian-the-brewer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
