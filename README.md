@@ -29,7 +29,8 @@ src="https://img.shields.io/twitter/follow/the_code_brewer?logo=twitter&style=fo
 src="https://img.shields.io/github/followers/christian-the-brewer?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><br>
 <a href="https://www.codewars.com/users/christian-the-brewer" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/christian-the-brewer/badges/large"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christian-the-brewer&langs_count=8)](https://github.com/christian-the-brewer/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christian-the-brewer&langs_count=8)](https://github.com/christian-the-brewer/github-readme-stats) -->
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=christan-the-brewer&langs_count=5&theme=tokyonight)]()
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=christian-the-brewer&show_icons=true)  
 
