@@ -11,6 +11,9 @@ I am a Boston-based developer working primarily in the MERN stack, Python, C++, 
 - <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/christian-the-brewer/christian-the-brewer/5448884dff1fe89624d5683fcdce6e89e4411bd4/react-svgrepo-com(1).svg" width="25" height="25" alt="React logo" /></a> React
 - <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/christian-the-brewer/christian-the-brewer/5448884dff1fe89624d5683fcdce6e89e4411bd4/nodejs-svgrepo-com.svg" width="25" height="25" alt="Node logo" /></a> Nodejs
 
+## Projects
+- [GPT-3 Promo](https://christian-the-brewer.github.io/gpt3_site/#wgpt3) A fake promo site for GPT-3 from OpenAI. 
+
 ## Get To Know Me
 - 🔭 I’m currently working my way through the [Project Euler](https://projecteuler.net/archives) archives.
 - 💬 Ask me about my parrot, Marina 🦜!
