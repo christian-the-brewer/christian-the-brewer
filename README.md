@@ -1,6 +1,6 @@
 # Hello, world, I'm Christian.
 
-I am a Boston-based developer working primarily in the MERN stack, Python, C++, and Rust 🦀! I love learning languages and finding solutions to challenging problems. 
+I am a Boston-based developer working primarily in the MERN stack, Python, and corrently learning C and C++. I love learning languages and finding solutions to challenging problems. 
 
 ## Skills
 - <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/christian-the-brewer/christian-the-brewer/e9aec9d8763ee545b8b6988cffc3775d400530f3/python-svgrepo-com(1).svg" width="25" height="25" alt="Python logo" /></a> Python
@@ -34,7 +34,7 @@ src="https://img.shields.io/twitter/follow/the_code_brewer?logo=twitter&style=fo
 src="https://img.shields.io/github/followers/christian-the-brewer?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><br>
 <a href="https://www.codewars.com/users/christian-the-brewer" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/christian-the-brewer/badges/large"></a>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christian-the-brewer&langs_count=8)](https://github.com/christian-the-brewer/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christian-the-brewer&langs_count=8)](https://github.com/christian-the-brewer/github-readme-stats)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=christan-the-brewer&langs_count=5)]()
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christan-the-brewer)](https://github.com/anuraghazra/github-readme-stats) -->
 
