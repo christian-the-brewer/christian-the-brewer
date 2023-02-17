@@ -16,6 +16,8 @@ I am a Boston-based developer working primarily in the MERN stack, Python, C++, 
 
 ## Projects
 - [GPT-3 Promo](https://christian-the-brewer.github.io/gpt3_site/#wgpt3) A fake promo site for GPT-3 from OpenAI. 
+- [Snake](https://github.com/christian-the-brewer/snake_in_python) A re-make of Snake it Python.
+- [State Geussing Game](https://github.com/christian-the-brewer/turtle_state_quiz) A guessing game that uses Turtle Graphics and Pandas.
 
 ## Get To Know Me
 - 🔭 I’m currently working my way through the [Project Euler](https://projecteuler.net/archives) archives.
