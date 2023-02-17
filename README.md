@@ -10,7 +10,8 @@ I am a Boston-based developer working primarily in the MERN stack, Python, and c
 - <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/christian-the-brewer/christian-the-brewer/5448884dff1fe89624d5683fcdce6e89e4411bd4/nodejs-svgrepo-com.svg" width="25" height="25" alt="Node logo" /></a> Nodejs
 
 ## What I'm Learning
-- <a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/christian-the-brewer/christian-the-brewer/24a697c8852adfe8f14625f50389f20142d44dcb/rust.svg" width="25" height="25" alt="Rust logo" /></a> Rust
+<!-- - <a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/christian-the-brewer/christian-the-brewer/24a697c8852adfe8f14625f50389f20142d44dcb/rust.svg" width="25" height="25" alt="Rust logo" /></a> Rust -->
+- <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://github.com/christian-the-brewer/christian-the-brewer/blob/main/The_C_Programming_Language_logo.svg.png" width="25" height="25" alt="C logo" /></a> C
 - <a href="https://isocpp.org/"><img src="https://github.com/christian-the-brewer/christian-the-brewer/blob/main/c++_logo.png?raw=true" width="25" height="25" alt="C++ logo" /></a> C++
 
 
