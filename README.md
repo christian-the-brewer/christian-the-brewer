@@ -1,6 +1,6 @@
 # Hello, world, I'm Christian.
 
-I am a Boston-based developer working primarily in the MERN stack, Python, and corrently learning C and C++. I love learning languages and finding solutions to challenging problems. 
+I am a Boston-based developer working primarily in the MERN stack, Python, and currently learning C and C++. I love learning languages and finding solutions to challenging problems. 
 
 ## Skills
 - <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/christian-the-brewer/christian-the-brewer/e9aec9d8763ee545b8b6988cffc3775d400530f3/python-svgrepo-com(1).svg" width="25" height="25" alt="Python logo" /></a> Python
