@@ -23,7 +23,7 @@ I am a Boston-based developer working primarily in the MERN stack, Python, and c
 ## Get To Know Me
 - 🔭 I’m currently working my way through the [Project Euler](https://projecteuler.net/archives) archives.
 - 💬 Ask me about my parrot, Marina 🦜!
-- 📫 How to reach me: the_code_brewer@proton.me 
+- 📫 How to reach me: christian@thecodebrewer.com
 
 ## Socials
 <!-- <a href="https://www.linkedin.com/in/christianbrewer/" target="_blank" rel="noreferrer"><img
