@@ -16,6 +16,7 @@ I am a Boston-based developer working primarily in the MERN stack, Python, and c
 
 
 ## Projects
+- [ChristianGPT](https://next-ljcskhipd-christian-the-brewer.vercel.app/) ChatCPT clone with Nextjs and Firebase.
 - [GPT-3 Promo](https://christian-the-brewer.github.io/gpt3_site/#wgpt3) A fake promo site for GPT-3 from OpenAI. 
 - [Snake](https://github.com/christian-the-brewer/snake_in_python) A re-make of Snake it Python.
 - [State Guessing Game](https://github.com/christian-the-brewer/turtle_state_quiz) A guessing game that uses Turtle Graphics and Pandas.
